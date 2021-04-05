@@ -1,1 +1,9 @@
-learn about svm
+better ways to replace Nan?
+
+feature engineering (parent/child/sibling/spouse, )
+
+separate files for training and testing, save model to file
+
+pipeline for preprocessing, all categorical predictors
+
+gradient boost model -> tune hyper parameters
